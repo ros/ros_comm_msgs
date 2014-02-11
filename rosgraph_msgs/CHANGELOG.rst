@@ -2,6 +2,10 @@
 Changelog for package rosgraph_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* move from ros_comm to separate repository (`#355 <https://github.com/ros/ros_comm/issues/355>`_)
+
 1.10.0 (2014-02-11)
 -------------------
 
