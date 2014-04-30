@@ -23,8 +23,8 @@ duration period_stddev
 duration period_max
 
 # mean/stddev/max delay between header.stamp of the
-# message and "now". NaN if the message does not have a
-# "header" field.
+# message and "now". Zero indicates that the message
+# does not have "header" field.
 duration stamp_delay_mean
 duration stamp_delay_stddev
 duration stamp_delay_max
