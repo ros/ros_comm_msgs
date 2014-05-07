@@ -2,8 +2,8 @@
 Changelog for package rosgraph_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.10.2 (2014-05-07)
+-------------------
 * add TopicStatistics message (`#1 <https://github.com/ros/ros_comm_msgs/pull/1>`_)
 
 1.10.1 (2014-02-11)
