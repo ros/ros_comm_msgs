@@ -2,8 +2,8 @@
 Changelog for package rosgraph_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.10.3 (2014-08-18)
+-------------------
 * add delivered_msgs attribute to TopicStatistics message (`#2 <https://github.com/ros/ros_comm_msgs/pull/2>`_)
 
 1.10.2 (2014-05-07)
