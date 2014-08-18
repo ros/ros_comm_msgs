@@ -11,6 +11,8 @@ string node_sub
 time window_start
 time window_stop
 
+# number of messages delivered during the window
+int32 delivered_msgs
 # numbers of messages dropped during the window
 int32 dropped_msgs
 
