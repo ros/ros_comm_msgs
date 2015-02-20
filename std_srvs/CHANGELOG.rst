@@ -2,6 +2,10 @@
 Changelog for package std_srvs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.0 (2015-02-20)
+-------------------
+* bump version to fix hydro-indigo conflict (`#3 <https://github.com/ros/ros_comm_msgs/issues/3>`_)
+
 1.10.3 (2014-08-18)
 -------------------
 
