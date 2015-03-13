@@ -4,7 +4,9 @@ project(std_srvs)
 find_package(catkin REQUIRED COMPONENTS message_generation)
 
 add_service_files(DIRECTORY srv
-  FILES Empty.srv)
+  FILES
+  Empty.srv
+  Trigger.srv)
 
 generate_messages()
 
