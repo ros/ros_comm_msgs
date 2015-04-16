@@ -2,8 +2,8 @@
 Changelog for package std_srvs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.11.1 (2015-04-16)
+-------------------
 * add Trigger service (`#5 <https://github.com/ros/ros_comm_msgs/pull/5>`_)
 
 1.11.0 (2015-02-20)
