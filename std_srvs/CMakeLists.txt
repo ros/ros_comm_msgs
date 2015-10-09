@@ -6,6 +6,7 @@ find_package(catkin REQUIRED COMPONENTS message_generation)
 add_service_files(DIRECTORY srv
   FILES
   Empty.srv
+  SetBool.srv
   Trigger.srv)
 
 generate_messages()
