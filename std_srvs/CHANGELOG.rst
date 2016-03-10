@@ -2,8 +2,8 @@
 Changelog for package std_srvs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.11.2 (2016-03-10)
+-------------------
 * add SetBool service (`#7 <https://github.com/ros/ros_comm_msgs/pull/7>`_)
 
 1.11.1 (2015-04-16)
