@@ -1,0 +1,4 @@
+uint64 data # unsigned int 8 byte value
+---
+bool success   # indicate successful run of triggered service
+string message # informational, e.g. for error messages
