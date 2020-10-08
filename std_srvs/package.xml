@@ -2,11 +2,12 @@
   <name>std_srvs</name>
   <version>1.11.3</version>
   <description>Common service definitions.</description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
+  <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
   <license>BSD</license>
 
   <url>http://ros.org/wiki/std_srvs</url>
   <author>Morgan Quigley</author>
+  <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 

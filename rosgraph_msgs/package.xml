@@ -4,11 +4,12 @@
   <description>
      Messages relating to the ROS Computation Graph. These are generally considered to be low-level messages that end users do not interact with.
   </description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
+  <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
   <license>BSD</license>
 
   <url>http://ros.org/wiki/rosgraph_msgs</url>
   <author>Ken Conley</author>
+  <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
