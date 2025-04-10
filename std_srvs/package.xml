@@ -1,6 +1,6 @@
 <package>
   <name>std_srvs</name>
-  <version>1.11.3</version>
+  <version>1.11.4</version>
   <description>Common service definitions.</description>
   <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
   <license>BSD</license>

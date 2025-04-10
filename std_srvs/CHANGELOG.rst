@@ -2,8 +2,8 @@
 Changelog for package std_srvs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.11.4 (2025-04-10)
+-------------------
 * Update maintainers (`#12 <https://github.com/ros/ros_comm_msgs/issues/12>`_)
 * Contributors: Michel Hidalgo
 
