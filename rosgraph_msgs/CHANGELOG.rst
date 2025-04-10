@@ -2,6 +2,11 @@
 Changelog for package rosgraph_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update maintainers (`#12 <https://github.com/ros/ros_comm_msgs/issues/12>`_)
+* Contributors: Michel Hidalgo
+
 1.11.2 (2016-03-10)
 -------------------
 
